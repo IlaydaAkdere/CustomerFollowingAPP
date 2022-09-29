@@ -1,0 +1,3 @@
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\classMethodDemo\obj\Debug\CustomerFollowingApp.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\classMethodDemo\obj\Debug\CustomerFollowingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\classMethodDemo\obj\Debug\CustomerFollowingApp.csproj.CoreCompileInputs.cache
